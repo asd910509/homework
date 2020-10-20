@@ -21,4 +21,5 @@ basic.forever(function () {
             }
         }
     }
+    basic.clearScreen()
 })
